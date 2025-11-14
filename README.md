@@ -8,5 +8,6 @@
 | Калькулятор доходности вкладов | HTML, CSS, JavaScript, Bootstrap | [Репозиторий](https://github.com/helloGalina/deposit-calculator.git) |
 | The Kingdom of Meow | React, Bootstrap, CSS | [Репозиторий](https://github.com/helloGalina/react-bootstrap-cat-card.git) |
 | Калькулятор ИМТ (BMI Calculator) | HTML, CSS, JavaScript, Bootstrap | [Репозиторий](https://github.com/helloGalina/bmi-calculator.git) |
+| С Днем Рождения от Гомера Симпсона! | HTML, CSS, JavaScript | [Репозиторий](https://github.com/helloGalina/homer-birthday-card.git) |
 
 Каждый проект — отдельный репозиторий, чтобы можно было изучить код, посмотреть деплой и функционал.
