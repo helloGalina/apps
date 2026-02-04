@@ -4,6 +4,7 @@
 
 | Проект | Технологии | Ссылка |
 |--------|------------|--------|
+| Мои задачи — iOS приложение для управления списком дел | Swift, SwiftUI, VIPER, CoreData, Combine, REST API, GCD, Unit Tests | [Репозиторий](https://github.com/helloGalina/my-tasks-ios.git) |
 | ToDoList — iOS приложение для управления задачами | Swift, SwiftUI, Combine, Firebase (Auth, Firestore), MVVM | [Репозиторий](https://github.com/helloGalina/ToDoList-iOS.git) |
 | Avant-Garde Affirmations | HTML5, CSS3, JavaScript (Vanilla) | [Репозиторий](https://github.com/helloGalina/avant-garde-affirmations.git) |
 | Калькулятор доходности вкладов | HTML, CSS, JavaScript, Bootstrap | [Репозиторий](https://github.com/helloGalina/deposit-calculator.git) |
